@@ -54,5 +54,6 @@ Things I needed to do today:
 
 - [x] eat a bagel
 - [ ] discover the meaning of life
+- [ ] ~~take over the world~~ 
 
 Thanks 4 reading, bye! :sparkles:
