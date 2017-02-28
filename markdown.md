@@ -56,4 +56,6 @@ Things I needed to do today:
 - [ ] discover the meaning of life
 - [ ] ~~take over the world~~ 
 
+Here are some emojis :heart: :girl: :neckbeard: :squirrel:
+
 Thanks 4 reading, bye! :sparkles:
