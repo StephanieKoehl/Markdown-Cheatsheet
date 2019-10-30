@@ -25,7 +25,7 @@ Here's my top 3 favourite people:
 3. I forget
   * Item 3a
   
- ![Image of Coding](https://tctechcrunch2011.files.wordpress.com/2015/04/codecode.jpg)
+ ![Important Image for Business Professionals](https://i.kym-cdn.com/photos/images/original/000/576/507/502.jpg)
  
  Here's how you quote things like `#` or `cheetos` 
  
