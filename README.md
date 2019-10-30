@@ -1,11 +1,9 @@
-# Markdown Cheatsheet
-
-# This is really big header
+# Markdown Cheatsheet (This is really big header)
 ## This is a slighty smaller header
 ### This one's even smaller
 #### This is just like text but its still a header
 ##### This one is pretty darn tiny
-###### im so smoll
+###### im so smoll, I have so many hashes
 
 **Look how bold I am**
 
